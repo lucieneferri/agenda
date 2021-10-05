@@ -23,5 +23,7 @@ urlpatterns = [
     path('', views.index),
     path('login/', views.login_user),
     path('login/submit', views.submit_login),
-    path('logout/', views.logout_user)
+    path('logout/', views.logout_user),
+    path('agenda/evento/', views.evento),
+    path('agenda/evento/submit', views.submit_evento),
 ]
