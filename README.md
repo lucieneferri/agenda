@@ -2,7 +2,7 @@
 
 <p align="justify"> - Aplicação de uma agenda desenvolvida usando o framework Django. </p>
 
-https://img.shields.io/static/v1?label=Django&message=Framework&color=blue&style=for-the-badge&logo=DJANGO
+<img src="https://img.shields.io/static/v1?label=django&message=framework&color=blue&style=for-the-badge&logo=DJANGO"/>
 
 - [X] Criação ambiente virtual instalação Django
 - [X] Criação projeto e Core da aplicação 
